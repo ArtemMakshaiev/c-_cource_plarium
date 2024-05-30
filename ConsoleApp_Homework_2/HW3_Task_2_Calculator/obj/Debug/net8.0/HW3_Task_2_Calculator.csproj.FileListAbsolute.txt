@@ -1,0 +1,15 @@
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework_2\HW3_Task_2_Calculator\obj\Debug\net8.0\HW3_Task_2_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework_2\HW3_Task_2_Calculator\obj\Debug\net8.0\HW3_Task_2_Calculator.AssemblyInfoInputs.cache
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework_2\HW3_Task_2_Calculator\obj\Debug\net8.0\HW3_Task_2_Calculator.AssemblyInfo.cs
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework_2\HW3_Task_2_Calculator\obj\Debug\net8.0\HW3_Task_2_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework_2\HW3_Task_2_Calculator\obj\Debug\net8.0\HW3_Task_2_Calculator.sourcelink.json
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework_2\HW3_Task_2_Calculator\bin\Debug\net8.0\HW3_Task_2_Calculator.exe
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework_2\HW3_Task_2_Calculator\bin\Debug\net8.0\HW3_Task_2_Calculator.deps.json
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework_2\HW3_Task_2_Calculator\bin\Debug\net8.0\HW3_Task_2_Calculator.runtimeconfig.json
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework_2\HW3_Task_2_Calculator\bin\Debug\net8.0\HW3_Task_2_Calculator.dll
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework_2\HW3_Task_2_Calculator\bin\Debug\net8.0\HW3_Task_2_Calculator.pdb
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework_2\HW3_Task_2_Calculator\obj\Debug\net8.0\HW3_Task_2_Calculator.dll
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework_2\HW3_Task_2_Calculator\obj\Debug\net8.0\refint\HW3_Task_2_Calculator.dll
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework_2\HW3_Task_2_Calculator\obj\Debug\net8.0\HW3_Task_2_Calculator.pdb
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework_2\HW3_Task_2_Calculator\obj\Debug\net8.0\HW3_Task_2_Calculator.genruntimeconfig.cache
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework_2\HW3_Task_2_Calculator\obj\Debug\net8.0\ref\HW3_Task_2_Calculator.dll
