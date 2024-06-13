@@ -1,0 +1,15 @@
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW3_Task_3_Ranges\obj\Debug\net8.0\HW3_Task_3_Ranges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW3_Task_3_Ranges\obj\Debug\net8.0\HW3_Task_3_Ranges.AssemblyInfoInputs.cache
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW3_Task_3_Ranges\obj\Debug\net8.0\HW3_Task_3_Ranges.AssemblyInfo.cs
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW3_Task_3_Ranges\obj\Debug\net8.0\HW3_Task_3_Ranges.csproj.CoreCompileInputs.cache
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW3_Task_3_Ranges\obj\Debug\net8.0\HW3_Task_3_Ranges.sourcelink.json
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW3_Task_3_Ranges\bin\Debug\net8.0\HW3_Task_3_Ranges.exe
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW3_Task_3_Ranges\bin\Debug\net8.0\HW3_Task_3_Ranges.deps.json
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW3_Task_3_Ranges\bin\Debug\net8.0\HW3_Task_3_Ranges.runtimeconfig.json
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW3_Task_3_Ranges\bin\Debug\net8.0\HW3_Task_3_Ranges.dll
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW3_Task_3_Ranges\bin\Debug\net8.0\HW3_Task_3_Ranges.pdb
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW3_Task_3_Ranges\obj\Debug\net8.0\HW3_Task_3_Ranges.dll
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW3_Task_3_Ranges\obj\Debug\net8.0\refint\HW3_Task_3_Ranges.dll
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW3_Task_3_Ranges\obj\Debug\net8.0\HW3_Task_3_Ranges.pdb
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW3_Task_3_Ranges\obj\Debug\net8.0\HW3_Task_3_Ranges.genruntimeconfig.cache
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW3_Task_3_Ranges\obj\Debug\net8.0\ref\HW3_Task_3_Ranges.dll

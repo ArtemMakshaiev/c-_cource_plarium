@@ -1,0 +1,15 @@
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW4_Task_4_Logistics\bin\Debug\net8.0\HW4_Task_4_Logistics.exe
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW4_Task_4_Logistics\bin\Debug\net8.0\HW4_Task_4_Logistics.deps.json
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW4_Task_4_Logistics\bin\Debug\net8.0\HW4_Task_4_Logistics.runtimeconfig.json
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW4_Task_4_Logistics\bin\Debug\net8.0\HW4_Task_4_Logistics.dll
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW4_Task_4_Logistics\bin\Debug\net8.0\HW4_Task_4_Logistics.pdb
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW4_Task_4_Logistics\obj\Debug\net8.0\HW4_Task_4_Logistics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW4_Task_4_Logistics\obj\Debug\net8.0\HW4_Task_4_Logistics.AssemblyInfoInputs.cache
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW4_Task_4_Logistics\obj\Debug\net8.0\HW4_Task_4_Logistics.AssemblyInfo.cs
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW4_Task_4_Logistics\obj\Debug\net8.0\HW4_Task_4_Logistics.csproj.CoreCompileInputs.cache
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW4_Task_4_Logistics\obj\Debug\net8.0\HW4_Task_4_Logistics.sourcelink.json
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW4_Task_4_Logistics\obj\Debug\net8.0\HW4_Task_4_Logistics.dll
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW4_Task_4_Logistics\obj\Debug\net8.0\refint\HW4_Task_4_Logistics.dll
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW4_Task_4_Logistics\obj\Debug\net8.0\HW4_Task_4_Logistics.pdb
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW4_Task_4_Logistics\obj\Debug\net8.0\HW4_Task_4_Logistics.genruntimeconfig.cache
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW4_Task_4_Logistics\obj\Debug\net8.0\ref\HW4_Task_4_Logistics.dll

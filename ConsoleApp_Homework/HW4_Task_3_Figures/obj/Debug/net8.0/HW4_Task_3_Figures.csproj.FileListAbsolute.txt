@@ -1,0 +1,15 @@
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW4_Task_3_Figures\bin\Debug\net8.0\HW4_Task_3_Figures.exe
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW4_Task_3_Figures\bin\Debug\net8.0\HW4_Task_3_Figures.deps.json
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW4_Task_3_Figures\bin\Debug\net8.0\HW4_Task_3_Figures.runtimeconfig.json
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW4_Task_3_Figures\bin\Debug\net8.0\HW4_Task_3_Figures.dll
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW4_Task_3_Figures\bin\Debug\net8.0\HW4_Task_3_Figures.pdb
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW4_Task_3_Figures\obj\Debug\net8.0\HW4_Task_3_Figures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW4_Task_3_Figures\obj\Debug\net8.0\HW4_Task_3_Figures.AssemblyInfoInputs.cache
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW4_Task_3_Figures\obj\Debug\net8.0\HW4_Task_3_Figures.AssemblyInfo.cs
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW4_Task_3_Figures\obj\Debug\net8.0\HW4_Task_3_Figures.csproj.CoreCompileInputs.cache
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW4_Task_3_Figures\obj\Debug\net8.0\HW4_Task_3_Figures.sourcelink.json
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW4_Task_3_Figures\obj\Debug\net8.0\HW4_Task_3_Figures.dll
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW4_Task_3_Figures\obj\Debug\net8.0\refint\HW4_Task_3_Figures.dll
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW4_Task_3_Figures\obj\Debug\net8.0\HW4_Task_3_Figures.pdb
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW4_Task_3_Figures\obj\Debug\net8.0\HW4_Task_3_Figures.genruntimeconfig.cache
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW4_Task_3_Figures\obj\Debug\net8.0\ref\HW4_Task_3_Figures.dll

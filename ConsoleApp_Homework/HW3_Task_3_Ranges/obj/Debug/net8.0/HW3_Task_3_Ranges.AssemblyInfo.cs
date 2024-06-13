@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HW3_Task_3_Ranges")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21ee165804669a6e237ce3cd9aac586a1f092627")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01ca531a9e114e2b87121d17c9768154cea984be")]
 [assembly: System.Reflection.AssemblyProductAttribute("HW3_Task_3_Ranges")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HW3_Task_3_Ranges")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
