@@ -1,0 +1,15 @@
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW6_Task3_Methods_Creation\obj\Debug\net8.0\HW6_Task3_Methods_Creation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW6_Task3_Methods_Creation\obj\Debug\net8.0\HW6_Task3_Methods_Creation.AssemblyInfoInputs.cache
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW6_Task3_Methods_Creation\obj\Debug\net8.0\HW6_Task3_Methods_Creation.AssemblyInfo.cs
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW6_Task3_Methods_Creation\obj\Debug\net8.0\HW6_Task3_Methods_Creation.csproj.CoreCompileInputs.cache
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW6_Task3_Methods_Creation\obj\Debug\net8.0\HW6_Task3_Methods_Creation.sourcelink.json
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW6_Task3_Methods_Creation\bin\Debug\net8.0\HW6_Task3_Methods_Creation.exe
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW6_Task3_Methods_Creation\bin\Debug\net8.0\HW6_Task3_Methods_Creation.deps.json
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW6_Task3_Methods_Creation\bin\Debug\net8.0\HW6_Task3_Methods_Creation.runtimeconfig.json
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW6_Task3_Methods_Creation\bin\Debug\net8.0\HW6_Task3_Methods_Creation.dll
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW6_Task3_Methods_Creation\bin\Debug\net8.0\HW6_Task3_Methods_Creation.pdb
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW6_Task3_Methods_Creation\obj\Debug\net8.0\HW6_Task3_Methods_Creation.dll
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW6_Task3_Methods_Creation\obj\Debug\net8.0\refint\HW6_Task3_Methods_Creation.dll
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW6_Task3_Methods_Creation\obj\Debug\net8.0\HW6_Task3_Methods_Creation.pdb
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW6_Task3_Methods_Creation\obj\Debug\net8.0\HW6_Task3_Methods_Creation.genruntimeconfig.cache
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW6_Task3_Methods_Creation\obj\Debug\net8.0\ref\HW6_Task3_Methods_Creation.dll

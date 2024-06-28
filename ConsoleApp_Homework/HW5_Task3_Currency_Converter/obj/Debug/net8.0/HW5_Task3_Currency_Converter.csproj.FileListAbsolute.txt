@@ -1,0 +1,15 @@
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW5_Task3_Currency_Converter\bin\Debug\net8.0\HW5_Task3_Currency_Converter.exe
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW5_Task3_Currency_Converter\bin\Debug\net8.0\HW5_Task3_Currency_Converter.deps.json
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW5_Task3_Currency_Converter\bin\Debug\net8.0\HW5_Task3_Currency_Converter.runtimeconfig.json
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW5_Task3_Currency_Converter\bin\Debug\net8.0\HW5_Task3_Currency_Converter.dll
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW5_Task3_Currency_Converter\bin\Debug\net8.0\HW5_Task3_Currency_Converter.pdb
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW5_Task3_Currency_Converter\obj\Debug\net8.0\HW5_Task3_Currency_Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW5_Task3_Currency_Converter\obj\Debug\net8.0\HW5_Task3_Currency_Converter.AssemblyInfoInputs.cache
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW5_Task3_Currency_Converter\obj\Debug\net8.0\HW5_Task3_Currency_Converter.AssemblyInfo.cs
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW5_Task3_Currency_Converter\obj\Debug\net8.0\HW5_Task3_Currency_Converter.csproj.CoreCompileInputs.cache
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW5_Task3_Currency_Converter\obj\Debug\net8.0\HW5_Task3_Currency_Converter.sourcelink.json
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW5_Task3_Currency_Converter\obj\Debug\net8.0\HW5_Task3_Currency_Converter.dll
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW5_Task3_Currency_Converter\obj\Debug\net8.0\refint\HW5_Task3_Currency_Converter.dll
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW5_Task3_Currency_Converter\obj\Debug\net8.0\HW5_Task3_Currency_Converter.pdb
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW5_Task3_Currency_Converter\obj\Debug\net8.0\HW5_Task3_Currency_Converter.genruntimeconfig.cache
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW5_Task3_Currency_Converter\obj\Debug\net8.0\ref\HW5_Task3_Currency_Converter.dll

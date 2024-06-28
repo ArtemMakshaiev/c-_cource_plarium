@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HW6_Task3_Methods_Creation/1.0.0": {
+        "runtime": {
+          "HW6_Task3_Methods_Creation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HW6_Task3_Methods_Creation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW5_Task_4_Numbers\bin\Debug\net8.0\HW5_Task_4_Numbers.exe
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW5_Task_4_Numbers\bin\Debug\net8.0\HW5_Task_4_Numbers.deps.json
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW5_Task_4_Numbers\bin\Debug\net8.0\HW5_Task_4_Numbers.runtimeconfig.json
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW5_Task_4_Numbers\bin\Debug\net8.0\HW5_Task_4_Numbers.dll
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW5_Task_4_Numbers\bin\Debug\net8.0\HW5_Task_4_Numbers.pdb
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW5_Task_4_Numbers\obj\Debug\net8.0\HW5_Task_4_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW5_Task_4_Numbers\obj\Debug\net8.0\HW5_Task_4_Numbers.AssemblyInfoInputs.cache
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW5_Task_4_Numbers\obj\Debug\net8.0\HW5_Task_4_Numbers.AssemblyInfo.cs
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW5_Task_4_Numbers\obj\Debug\net8.0\HW5_Task_4_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW5_Task_4_Numbers\obj\Debug\net8.0\HW5_Task_4_Numbers.sourcelink.json
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW5_Task_4_Numbers\obj\Debug\net8.0\HW5_Task_4_Numbers.dll
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW5_Task_4_Numbers\obj\Debug\net8.0\refint\HW5_Task_4_Numbers.dll
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW5_Task_4_Numbers\obj\Debug\net8.0\HW5_Task_4_Numbers.pdb
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW5_Task_4_Numbers\obj\Debug\net8.0\HW5_Task_4_Numbers.genruntimeconfig.cache
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW5_Task_4_Numbers\obj\Debug\net8.0\ref\HW5_Task_4_Numbers.dll
