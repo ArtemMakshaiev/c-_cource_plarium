@@ -1,0 +1,15 @@
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task3_BookClass\obj\Debug\net8.0\HW7_Task3_BookClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task3_BookClass\obj\Debug\net8.0\HW7_Task3_BookClass.AssemblyInfoInputs.cache
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task3_BookClass\obj\Debug\net8.0\HW7_Task3_BookClass.AssemblyInfo.cs
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task3_BookClass\obj\Debug\net8.0\HW7_Task3_BookClass.csproj.CoreCompileInputs.cache
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task3_BookClass\obj\Debug\net8.0\HW7_Task3_BookClass.sourcelink.json
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task3_BookClass\bin\Debug\net8.0\HW7_Task3_BookClass.exe
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task3_BookClass\bin\Debug\net8.0\HW7_Task3_BookClass.deps.json
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task3_BookClass\bin\Debug\net8.0\HW7_Task3_BookClass.runtimeconfig.json
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task3_BookClass\bin\Debug\net8.0\HW7_Task3_BookClass.dll
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task3_BookClass\bin\Debug\net8.0\HW7_Task3_BookClass.pdb
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task3_BookClass\obj\Debug\net8.0\HW7_Task3_BookClass.dll
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task3_BookClass\obj\Debug\net8.0\refint\HW7_Task3_BookClass.dll
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task3_BookClass\obj\Debug\net8.0\HW7_Task3_BookClass.pdb
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task3_BookClass\obj\Debug\net8.0\HW7_Task3_BookClass.genruntimeconfig.cache
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task3_BookClass\obj\Debug\net8.0\ref\HW7_Task3_BookClass.dll

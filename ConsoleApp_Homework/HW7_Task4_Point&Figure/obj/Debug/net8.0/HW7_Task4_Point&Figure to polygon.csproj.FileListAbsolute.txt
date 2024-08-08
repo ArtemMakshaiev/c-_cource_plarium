@@ -1,0 +1,15 @@
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task4_Point&Figure\bin\Debug\net8.0\HW7_Task4_Point&Figure to polygon.exe
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task4_Point&Figure\bin\Debug\net8.0\HW7_Task4_Point&Figure to polygon.deps.json
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task4_Point&Figure\bin\Debug\net8.0\HW7_Task4_Point&Figure to polygon.runtimeconfig.json
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task4_Point&Figure\bin\Debug\net8.0\HW7_Task4_Point&Figure to polygon.dll
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task4_Point&Figure\bin\Debug\net8.0\HW7_Task4_Point&Figure to polygon.pdb
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task4_Point&Figure\obj\Debug\net8.0\HW7_Task4_Point&Figure to polygon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task4_Point&Figure\obj\Debug\net8.0\HW7_Task4_Point&Figure to polygon.AssemblyInfoInputs.cache
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task4_Point&Figure\obj\Debug\net8.0\HW7_Task4_Point&Figure to polygon.AssemblyInfo.cs
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task4_Point&Figure\obj\Debug\net8.0\HW7_Task4_Point&Figure to polygon.csproj.CoreCompileInputs.cache
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task4_Point&Figure\obj\Debug\net8.0\HW7_Task4_Point&Figure to polygon.sourcelink.json
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task4_Point&Figure\obj\Debug\net8.0\HW7_Task4_Point&Figure to polygon.dll
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task4_Point&Figure\obj\Debug\net8.0\refint\HW7_Task4_Point&Figure to polygon.dll
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task4_Point&Figure\obj\Debug\net8.0\HW7_Task4_Point&Figure to polygon.pdb
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task4_Point&Figure\obj\Debug\net8.0\HW7_Task4_Point&Figure to polygon.genruntimeconfig.cache
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task4_Point&Figure\obj\Debug\net8.0\ref\HW7_Task4_Point&Figure to polygon.dll

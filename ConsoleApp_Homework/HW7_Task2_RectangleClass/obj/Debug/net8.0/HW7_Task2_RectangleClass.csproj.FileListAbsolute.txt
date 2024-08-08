@@ -1,0 +1,15 @@
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task2_RectangleClass\bin\Debug\net8.0\HW7_Task2_RectangleClass.exe
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task2_RectangleClass\bin\Debug\net8.0\HW7_Task2_RectangleClass.deps.json
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task2_RectangleClass\bin\Debug\net8.0\HW7_Task2_RectangleClass.runtimeconfig.json
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task2_RectangleClass\bin\Debug\net8.0\HW7_Task2_RectangleClass.dll
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task2_RectangleClass\bin\Debug\net8.0\HW7_Task2_RectangleClass.pdb
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task2_RectangleClass\obj\Debug\net8.0\HW7_Task2_RectangleClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task2_RectangleClass\obj\Debug\net8.0\HW7_Task2_RectangleClass.AssemblyInfoInputs.cache
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task2_RectangleClass\obj\Debug\net8.0\HW7_Task2_RectangleClass.AssemblyInfo.cs
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task2_RectangleClass\obj\Debug\net8.0\HW7_Task2_RectangleClass.csproj.CoreCompileInputs.cache
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task2_RectangleClass\obj\Debug\net8.0\HW7_Task2_RectangleClass.sourcelink.json
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task2_RectangleClass\obj\Debug\net8.0\HW7_Task2_RectangleClass.dll
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task2_RectangleClass\obj\Debug\net8.0\refint\HW7_Task2_RectangleClass.dll
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task2_RectangleClass\obj\Debug\net8.0\HW7_Task2_RectangleClass.pdb
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task2_RectangleClass\obj\Debug\net8.0\HW7_Task2_RectangleClass.genruntimeconfig.cache
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task2_RectangleClass\obj\Debug\net8.0\ref\HW7_Task2_RectangleClass.dll

@@ -1,0 +1,15 @@
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW8_Task3_Sallary\bin\Debug\net8.0\HW8_Task3_Salary&Tax.exe
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW8_Task3_Sallary\bin\Debug\net8.0\HW8_Task3_Salary&Tax.deps.json
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW8_Task3_Sallary\bin\Debug\net8.0\HW8_Task3_Salary&Tax.runtimeconfig.json
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW8_Task3_Sallary\bin\Debug\net8.0\HW8_Task3_Salary&Tax.dll
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW8_Task3_Sallary\bin\Debug\net8.0\HW8_Task3_Salary&Tax.pdb
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW8_Task3_Sallary\obj\Debug\net8.0\HW8_Task3_Salary&Tax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW8_Task3_Sallary\obj\Debug\net8.0\HW8_Task3_Salary&Tax.AssemblyInfoInputs.cache
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW8_Task3_Sallary\obj\Debug\net8.0\HW8_Task3_Salary&Tax.AssemblyInfo.cs
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW8_Task3_Sallary\obj\Debug\net8.0\HW8_Task3_Salary&Tax.csproj.CoreCompileInputs.cache
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW8_Task3_Sallary\obj\Debug\net8.0\HW8_Task3_Salary&Tax.sourcelink.json
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW8_Task3_Sallary\obj\Debug\net8.0\HW8_Task3_Salary&Tax.dll
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW8_Task3_Sallary\obj\Debug\net8.0\refint\HW8_Task3_Salary&Tax.dll
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW8_Task3_Sallary\obj\Debug\net8.0\HW8_Task3_Salary&Tax.pdb
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW8_Task3_Sallary\obj\Debug\net8.0\HW8_Task3_Salary&Tax.genruntimeconfig.cache
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW8_Task3_Sallary\obj\Debug\net8.0\ref\HW8_Task3_Salary&Tax.dll

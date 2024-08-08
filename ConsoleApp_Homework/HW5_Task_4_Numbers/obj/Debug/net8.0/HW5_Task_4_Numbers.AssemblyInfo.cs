@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HW5_Task_4_Numbers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d096d3bc20895f2022f3ade7b745cc728316c7e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa95a68ff3c2fd67576b9d203e9c83017f6bae03")]
 [assembly: System.Reflection.AssemblyProductAttribute("HW5_Task_4_Numbers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HW5_Task_4_Numbers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

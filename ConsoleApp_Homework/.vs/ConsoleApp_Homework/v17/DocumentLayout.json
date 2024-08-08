@@ -3,48 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\a.makshaiev\\C#_cource_progect\\ConsoleApp_Homework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F6C47CA-78FF-47E1-8D7F-F11A86BF3422}|HW6_Task3_Methods_Creation1\\HW6_Task3_Methods_Creation1.csproj|c:\\users\\a.makshaiev\\c#_cource_progect\\consoleapp_homework\\hw6_task3_methods_creation1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F6C47CA-78FF-47E1-8D7F-F11A86BF3422}|HW6_Task3_Methods_Creation1\\HW6_Task3_Methods_Creation1.csproj|solutionrelative:hw6_task3_methods_creation1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AEDD02CF-BD77-4DAC-B932-A33593C66169}|HW8_Task3_Sallary\\HW8_Task3_Salary\u0026Tax.csproj|c:\\users\\a.makshaiev\\c#_cource_progect\\consoleapp_homework\\hw8_task3_sallary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEDD02CF-BD77-4DAC-B932-A33593C66169}|HW8_Task3_Sallary\\HW8_Task3_Salary\u0026Tax.csproj|solutionrelative:hw8_task3_sallary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5A634FD-7A29-4BD7-B82D-54BA2F882883}|HW6_Task3_Methods_Creation\\HW6_Task3_Methods_Creation.csproj|c:\\users\\a.makshaiev\\c#_cource_progect\\consoleapp_homework\\hw6_task3_methods_creation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5A634FD-7A29-4BD7-B82D-54BA2F882883}|HW6_Task3_Methods_Creation\\HW6_Task3_Methods_Creation.csproj|solutionrelative:hw6_task3_methods_creation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6CC3664-1C84-479D-A235-36EF347FF21C}|HW8_Task2_Converter\\HW8_Task2_Converter.csproj|c:\\users\\a.makshaiev\\c#_cource_progect\\consoleapp_homework\\hw8_task2_converter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CC3664-1C84-479D-A235-36EF347FF21C}|HW8_Task2_Converter\\HW8_Task2_Converter.csproj|solutionrelative:hw8_task2_converter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{242716F9-EA07-4EBF-85AB-D7351F1B9BE1}|HW6_Task2_Array_Exploring\\HW6_Task2_Array_Exploring.csproj|c:\\users\\a.makshaiev\\c#_cource_progect\\consoleapp_homework\\hw6_task2_array_exploring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{242716F9-EA07-4EBF-85AB-D7351F1B9BE1}|HW6_Task2_Array_Exploring\\HW6_Task2_Array_Exploring.csproj|solutionrelative:hw6_task2_array_exploring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{846F6555-0B43-4F52-AE04-6145B113528D}|HW7_Task4_Point\u0026Figure\\HW7_Task4_Point\u0026Figure to Polygon.csproj|c:\\users\\a.makshaiev\\c#_cource_progect\\consoleapp_homework\\hw7_task4_point\u0026figure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{846F6555-0B43-4F52-AE04-6145B113528D}|HW7_Task4_Point\u0026Figure\\HW7_Task4_Point\u0026Figure to Polygon.csproj|solutionrelative:hw7_task4_point\u0026figure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFCD7067-CED3-4B03-B7CD-9D873E3FAB3C}|HW5_Task3_Currency_Converter\\HW5_Task3_Currency_Converter.csproj|c:\\users\\a.makshaiev\\c#_cource_progect\\consoleapp_homework\\hw5_task3_currency_converter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFCD7067-CED3-4B03-B7CD-9D873E3FAB3C}|HW5_Task3_Currency_Converter\\HW5_Task3_Currency_Converter.csproj|solutionrelative:hw5_task3_currency_converter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15315E47-B858-4819-A5B2-B3746E12A30E}|HW5_Task_4_Numbers\\HW5_Task_4_Numbers.csproj|c:\\users\\a.makshaiev\\c#_cource_progect\\consoleapp_homework\\hw5_task_4_numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15315E47-B858-4819-A5B2-B3746E12A30E}|HW5_Task_4_Numbers\\HW5_Task_4_Numbers.csproj|solutionrelative:hw5_task_4_numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E349689-9F6B-4B25-9F9E-B1E75424A616}|HW4_Task_4_Logistics\\HW4_Task_4_Logistics.csproj|c:\\users\\a.makshaiev\\c#_cource_progect\\consoleapp_homework\\hw4_task_4_logistics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E349689-9F6B-4B25-9F9E-B1E75424A616}|HW4_Task_4_Logistics\\HW4_Task_4_Logistics.csproj|solutionrelative:hw4_task_4_logistics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{502A953D-6135-4CB0-8584-0EA9F27417BE}|HW5_Task_2_Methods_Creation\\HW5_Task_2_Methods_Creation.csproj|c:\\users\\a.makshaiev\\c#_cource_progect\\consoleapp_homework\\hw5_task_2_methods_creation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{502A953D-6135-4CB0-8584-0EA9F27417BE}|HW5_Task_2_Methods_Creation\\HW5_Task_2_Methods_Creation.csproj|solutionrelative:hw5_task_2_methods_creation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCB34D24-DA5A-4F65-85DF-E475FC3591B1}|HW4_Task_3_Figures\\HW4_Task_3_Figures.csproj|c:\\users\\a.makshaiev\\c#_cource_progect\\consoleapp_homework\\hw4_task_3_figures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCB34D24-DA5A-4F65-85DF-E475FC3591B1}|HW4_Task_3_Figures\\HW4_Task_3_Figures.csproj|solutionrelative:hw4_task_3_figures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEAAC809-25AF-45E9-856D-CB4FC446DE0E}|Task_3\\HW2_Task_3.csproj|c:\\users\\a.makshaiev\\c#_cource_progect\\consoleapp_homework\\task_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEAAC809-25AF-45E9-856D-CB4FC446DE0E}|Task_3\\HW2_Task_3.csproj|solutionrelative:task_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4EA9BD5-2DD0-4D0C-B353-DD282D2D7DB6}|Task_2\\HW2_Task_2.csproj|c:\\users\\a.makshaiev\\c#_cource_progect\\consoleapp_homework\\task_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4EA9BD5-2DD0-4D0C-B353-DD282D2D7DB6}|Task_2\\HW2_Task_2.csproj|solutionrelative:task_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E44F44E6-7089-41D4-8B3E-62EBEC5FCD0B}|ConsoleApp_Homework_2\\HW2_Task_1.csproj|c:\\users\\a.makshaiev\\c#_cource_progect\\consoleapp_homework\\consoleapp_homework_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E44F44E6-7089-41D4-8B3E-62EBEC5FCD0B}|ConsoleApp_Homework_2\\HW2_Task_1.csproj|solutionrelative:consoleapp_homework_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9355D7E4-DEB0-4F5B-94C7-351912945425}|HW7_Task3_BookClass\\HW7_Task3_BookClass.csproj|c:\\users\\a.makshaiev\\c#_cource_progect\\consoleapp_homework\\hw7_task3_bookclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9355D7E4-DEB0-4F5B-94C7-351912945425}|HW7_Task3_BookClass\\HW7_Task3_BookClass.csproj|solutionrelative:hw7_task3_bookclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -60,136 +32,52 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\a.makshaiev\\C#_cource_progect\\ConsoleApp_Homework\\HW6_Task3_Methods_Creation1\\Program.cs",
-              "RelativeDocumentMoniker": "HW6_Task3_Methods_Creation1\\Program.cs",
-              "ToolTip": "C:\\Users\\a.makshaiev\\C#_cource_progect\\ConsoleApp_Homework\\HW6_Task3_Methods_Creation1\\Program.cs",
-              "RelativeToolTip": "HW6_Task3_Methods_Creation1\\Program.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAqwCcAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\a.makshaiev\\C#_cource_progect\\ConsoleApp_Homework\\HW8_Task3_Sallary\\Program.cs",
+              "RelativeDocumentMoniker": "HW8_Task3_Sallary\\Program.cs",
+              "ToolTip": "C:\\Users\\a.makshaiev\\C#_cource_progect\\ConsoleApp_Homework\\HW8_Task3_Sallary\\Program.cs",
+              "RelativeToolTip": "HW8_Task3_Sallary\\Program.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAA7wFAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T12:35:11.771Z",
+              "WhenOpened": "2024-08-08T12:00:09.144Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\a.makshaiev\\C#_cource_progect\\ConsoleApp_Homework\\HW6_Task3_Methods_Creation\\Program.cs",
-              "RelativeDocumentMoniker": "HW6_Task3_Methods_Creation\\Program.cs",
-              "ToolTip": "C:\\Users\\a.makshaiev\\C#_cource_progect\\ConsoleApp_Homework\\HW6_Task3_Methods_Creation\\Program.cs",
-              "RelativeToolTip": "HW6_Task3_Methods_Creation\\Program.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAQwCsAAAA/AAAA",
+              "DocumentMoniker": "C:\\Users\\a.makshaiev\\C#_cource_progect\\ConsoleApp_Homework\\HW8_Task2_Converter\\Program.cs",
+              "RelativeDocumentMoniker": "HW8_Task2_Converter\\Program.cs",
+              "ToolTip": "C:\\Users\\a.makshaiev\\C#_cource_progect\\ConsoleApp_Homework\\HW8_Task2_Converter\\Program.cs",
+              "RelativeToolTip": "HW8_Task2_Converter\\Program.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAA8wEEAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T12:04:10.814Z",
+              "WhenOpened": "2024-08-08T11:30:42.337Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\a.makshaiev\\C#_cource_progect\\ConsoleApp_Homework\\HW6_Task2_Array_Exploring\\Program.cs",
-              "RelativeDocumentMoniker": "HW6_Task2_Array_Exploring\\Program.cs",
-              "ToolTip": "C:\\Users\\a.makshaiev\\C#_cource_progect\\ConsoleApp_Homework\\HW6_Task2_Array_Exploring\\Program.cs",
-              "RelativeToolTip": "HW6_Task2_Array_Exploring\\Program.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAqwBEAAAA/AAAA",
+              "DocumentMoniker": "C:\\Users\\a.makshaiev\\C#_cource_progect\\ConsoleApp_Homework\\HW7_Task4_Point\u0026Figure\\Program.cs",
+              "RelativeDocumentMoniker": "HW7_Task4_Point\u0026Figure\\Program.cs",
+              "ToolTip": "C:\\Users\\a.makshaiev\\C#_cource_progect\\ConsoleApp_Homework\\HW7_Task4_Point\u0026Figure\\Program.cs",
+              "RelativeToolTip": "HW7_Task4_Point\u0026Figure\\Program.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAA3wFgAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T21:11:46.607Z",
+              "WhenOpened": "2024-08-08T10:57:02.968Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\a.makshaiev\\C#_cource_progect\\ConsoleApp_Homework\\HW5_Task_4_Numbers\\Program.cs",
-              "RelativeDocumentMoniker": "HW5_Task_4_Numbers\\Program.cs",
-              "ToolTip": "C:\\Users\\a.makshaiev\\C#_cource_progect\\ConsoleApp_Homework\\HW5_Task_4_Numbers\\Program.cs",
-              "RelativeToolTip": "HW5_Task_4_Numbers\\Program.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwB4AAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T20:52:47.125Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\a.makshaiev\\C#_cource_progect\\ConsoleApp_Homework\\HW5_Task3_Currency_Converter\\Program.cs",
-              "RelativeDocumentMoniker": "HW5_Task3_Currency_Converter\\Program.cs",
-              "ToolTip": "C:\\Users\\a.makshaiev\\C#_cource_progect\\ConsoleApp_Homework\\HW5_Task3_Currency_Converter\\Program.cs",
-              "RelativeToolTip": "HW5_Task3_Currency_Converter\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "DocumentMoniker": "C:\\Users\\a.makshaiev\\C#_cource_progect\\ConsoleApp_Homework\\HW7_Task3_BookClass\\Program.cs",
+              "RelativeDocumentMoniker": "HW7_Task3_BookClass\\Program.cs",
+              "ToolTip": "C:\\Users\\a.makshaiev\\C#_cource_progect\\ConsoleApp_Homework\\HW7_Task3_BookClass\\Program.cs",
+              "RelativeToolTip": "HW7_Task3_BookClass\\Program.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAqwFcAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T20:35:59.042Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\a.makshaiev\\C#_cource_progect\\ConsoleApp_Homework\\HW5_Task_2_Methods_Creation\\Program.cs",
-              "RelativeDocumentMoniker": "HW5_Task_2_Methods_Creation\\Program.cs",
-              "ToolTip": "C:\\Users\\a.makshaiev\\C#_cource_progect\\ConsoleApp_Homework\\HW5_Task_2_Methods_Creation\\Program.cs",
-              "RelativeToolTip": "HW5_Task_2_Methods_Creation\\Program.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAEoAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T20:09:38.84Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\a.makshaiev\\C#_cource_progect\\ConsoleApp_Homework\\HW4_Task_4_Logistics\\Program.cs",
-              "RelativeDocumentMoniker": "HW4_Task_4_Logistics\\Program.cs",
-              "ToolTip": "C:\\Users\\a.makshaiev\\C#_cource_progect\\ConsoleApp_Homework\\HW4_Task_4_Logistics\\Program.cs",
-              "RelativeToolTip": "HW4_Task_4_Logistics\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T08:51:36.671Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\a.makshaiev\\C#_cource_progect\\ConsoleApp_Homework\\HW4_Task_3_Figures\\Program.cs",
-              "RelativeDocumentMoniker": "HW4_Task_3_Figures\\Program.cs",
-              "ToolTip": "C:\\Users\\a.makshaiev\\C#_cource_progect\\ConsoleApp_Homework\\HW4_Task_3_Figures\\Program.cs",
-              "RelativeToolTip": "HW4_Task_3_Figures\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAA9wBIAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T08:14:33.467Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\a.makshaiev\\C#_cource_progect\\ConsoleApp_Homework\\Task_3\\Program.cs",
-              "RelativeDocumentMoniker": "Task_3\\Program.cs",
-              "ToolTip": "C:\\Users\\a.makshaiev\\C#_cource_progect\\ConsoleApp_Homework\\Task_3\\Program.cs",
-              "RelativeToolTip": "Task_3\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T22:44:11.664Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\a.makshaiev\\C#_cource_progect\\ConsoleApp_Homework\\Task_2\\Program.cs",
-              "RelativeDocumentMoniker": "Task_2\\Program.cs",
-              "ToolTip": "C:\\Users\\a.makshaiev\\C#_cource_progect\\ConsoleApp_Homework\\Task_2\\Program.cs",
-              "RelativeToolTip": "Task_2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T22:29:47.797Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\a.makshaiev\\C#_cource_progect\\ConsoleApp_Homework\\ConsoleApp_Homework_2\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp_Homework_2\\Program.cs",
-              "ToolTip": "C:\\Users\\a.makshaiev\\C#_cource_progect\\ConsoleApp_Homework\\ConsoleApp_Homework_2\\Program.cs",
-              "RelativeToolTip": "ConsoleApp_Homework_2\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T21:10:14.252Z"
+              "WhenOpened": "2024-07-29T14:10:49.367Z"
             }
           ]
         }

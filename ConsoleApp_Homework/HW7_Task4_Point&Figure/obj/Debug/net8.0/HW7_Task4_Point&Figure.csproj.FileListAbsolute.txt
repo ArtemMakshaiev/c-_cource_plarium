@@ -1,0 +1,5 @@
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task4_Point&Figure\obj\Debug\net8.0\HW7_Task4_Point&Figure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task4_Point&Figure\obj\Debug\net8.0\HW7_Task4_Point&Figure.AssemblyInfoInputs.cache
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task4_Point&Figure\obj\Debug\net8.0\HW7_Task4_Point&Figure.AssemblyInfo.cs
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task4_Point&Figure\obj\Debug\net8.0\HW7_Task4_Point&Figure.csproj.CoreCompileInputs.cache
+C:\Users\a.makshaiev\C#_cource_progect\ConsoleApp_Homework\HW7_Task4_Point&Figure\obj\Debug\net8.0\HW7_Task4_Point&Figure.sourcelink.json
